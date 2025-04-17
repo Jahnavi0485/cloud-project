@@ -1,0 +1,13 @@
+{
+    "fileLocations": [
+      {
+        "URIPrefixes": ["s3://customer-feedback-data-1/feedback/"]
+      }
+    ],
+    "globalUploadSettings": {
+      "format": "CSV",
+      "delimiter": ",",
+      "textqualifier": "\"",
+      "containsHeader": "true"
+    }
+  }
