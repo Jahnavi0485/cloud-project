@@ -1,0 +1,11 @@
+FeedbackID,Feedback,Sentiment,Timestamp,CustomerID,ProductCategory,Rating,Location
+1001,"Great service, very satisfied!",Positive,2025-04-03T12:00:00Z,C001,Electronics,5,New York
+1002,"Delivery was late, not happy",Negative,2025-04-03T12:10:00Z,C002,Clothing,2,Los Angeles
+1003,"Product quality is okay, expected better",Neutral,2025-04-03T12:15:00Z,C003,Furniture,3,Chicago
+1004,Absolutely love it! Will buy again,Positive,2025-04-03T12:20:00Z,C004,Beauty,5,Houston
+1005,"Not as described, very disappointed",Negative,2025-04-03T12:30:00Z,C005,Home Appliances,1,Miami
+1006,Customer support was helpful,Positive,2025-04-03T12:45:00Z,C006,Tech Support,4,Seattle
+1007,Packaging was damaged but product was fine,Neutral,2025-04-03T13:00:00Z,C007,Books,3,San Francisco
+1008,"Worst experience ever, will not recommend",Negative,2025-04-03T13:10:00Z,C008,Toys,1,Denver
+1009,"Fast shipping, great product",Positive,2025-04-03T13:20:00Z,C009,Sports,5,Boston
+1010,"It was just okay, nothing special",Neutral,2025-04-03T13:30:00Z,C010,Gaming,3,Austin
